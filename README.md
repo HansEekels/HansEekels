@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HansEekels, 76 and retirer but still active
+- 👋 Hi, I’m @HansEekels, 76 and retired but still active
 - 👀 I’m interested in astronomy, filosophy, science, programming, music, biljarts
 - 🌱 I’m currently learning firebase realtime database 
 - 💞️ I’m looking to collaborate on biljart-software
